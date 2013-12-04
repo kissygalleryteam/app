@@ -1,4 +1,5 @@
-![](http://img04.taobaocdn.com/tps/i4/T1IuoMXgNaXXaZVCTS-300-100.png)
+<!--![](http://img04.taobaocdn.com/tps/i4/T1IuoMXgNaXXaZVCTS-300-100.png) -->
+![](http://gtms01.alicdn.com/tps/i1/T1qDUCFfpaXXczH7HO-400-74.png)
 
 > Kissy Mobile App Toolkit 是一款实现web页面应用化的框架，可以快速完成"应用化"的web页面搭建
 > 除了专场动画的AppFramework之外，1.4 版还提供一套SDK规范，用以将你的页面运行于Native环境
@@ -518,6 +519,8 @@ back如果涉及到新页面的加载，则以get方式载入
 - What：SDK 是对AppFramework的封装，提供一些典型的方法调用，实现了更加通用的view。这种view被设计运行于三种典型场景
 - How：[sdk-h5.js](http://a.tbcdn.cn/s/kissy/gallery/app/1.4/demo/sdk/h5.js)，[sdk-h4.js](http://a.tbcdn.cn/s/kissy/gallery/app/1.4/demo/sdk/h4.js)，（参考）
 - Why：让H5页面在不修改和少修改情况下，就可以运行于浏览器和Native环境中。
+
+注意：SDK 是一种思路，不是最终解决方案。
 
 三种典型的场景：
 
