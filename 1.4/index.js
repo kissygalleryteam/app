@@ -73,7 +73,7 @@ KISSY.add(function (S,Slide) {
 			value:true
 		},
 		basepath:{
-			value:window.location.protocol + '//' + window.location.hostname +
+			value:window.location.protocol + '//' + window.location.host +
 					window.location.pathname.replace(/\/[^\/]+$/i,'').replace(/\/$/,'') + '/',
 			setter:function(v){
 				if(/\/$/.test(v)){
